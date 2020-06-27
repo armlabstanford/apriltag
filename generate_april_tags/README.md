@@ -29,7 +29,7 @@ do
 mv target.pdf target_$s.pdf
 done
 
-# how to make a FLA canvas tag
+# how to make a canvas tag
 
 ./make_calib_board.py --type apriltag --nx 1 --ny 1 --tsize 1.25 --tspace 0 --marginx 0.162 --marginy 0.25 --color Black --startid 100
 
