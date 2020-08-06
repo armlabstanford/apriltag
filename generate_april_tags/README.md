@@ -1,4 +1,4 @@
-# How to make the tags for cage 2:
+# How to make the tags:
 
 ./make_apriltags.py --type apriltag --nx 9 --ny 8 --tsize 0.04 --tspace 0.2
 
